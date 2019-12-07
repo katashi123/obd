@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"prototypeCopies","order":1,"parentId":0,"scrollX":853.7142857142857,"scrollY":1064.5714285714284},
+{"id":2,"expanded":false,"name":"prototypeSpawns","order":2,"parentId":0,"scrollX":2257.714285714286,"scrollY":2129.142857142857},
+{"id":3,"expanded":false,"name":"prototypeLocalEvents","order":3,"parentId":0,"scrollX":664,"scrollY":828},
+{"id":4,"expanded":true,"name":"testInputs","order":4,"parentId":0,"scrollX":664,"scrollY":828},
+{"id":5,"expanded":true,"name":"testEnemies","order":5,"parentId":0,"scrollX":1188.5454545454545,"scrollY":677.4545454545455},
+{"id":6,"expanded":false,"name":"testLocalEvents","order":6,"parentId":0,"scrollX":726.3333333333334,"scrollY":414},
+{"id":7,"expanded":false,"name":"desert","order":7,"parentId":0,"scrollX":7174,"scrollY":1190}
+]
